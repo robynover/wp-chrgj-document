@@ -1,7 +1,21 @@
-#Wordpress Plugin for Document Custom Post Type
+# Wordpress plugin: Books Custom Post Type
 
-Originally created for http://chrgj.org
+Originally developed for http://chrgj.org
 
-* Allows but does not require full-text  document in body of post
-* Supports PDF document uploads
-* Provides field for URL to document
+### Provides the fields:
+
+	* Title
+
+	* Body
+
+	* Author
+
+	* Publication Year
+
+	* Publisher
+
+	* URL
+
+### Related Posts
+Using the [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) plugin, allows you to relate book posts to other posts 
+	
